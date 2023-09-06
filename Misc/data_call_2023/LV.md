@@ -44,7 +44,8 @@
 
 ## Annex 4
 
-
+*new rows
+2 new values inserted in the database
 
 ## Annex 5
 
