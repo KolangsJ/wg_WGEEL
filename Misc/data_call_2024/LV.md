@@ -19,7 +19,7 @@
 ### series
 
 ### dataseries
-
+*  6 new values inserted in the database
 
 ### group metrics
 
@@ -33,7 +33,7 @@
 ### series
 
 ### dataseries
-
+* 6 new values inserted in the database
 
 ### group metrics
 
@@ -44,11 +44,11 @@
 
 ## Annex 4
 
-
+* 2 new values inserted in the database
 
 ## Annex 5
 
-
+* 2 new values inserted in the database
 
 ## Annex 6
 
@@ -56,7 +56,7 @@
 
 ## Annex 7
 
-
+* 2 new values inserted in the database
 
 ## Annex 8
 
@@ -64,11 +64,8 @@
 
 ## Annex 10
 
-### samplinginfo
+* 61 new values inserted in the database
 
+## Annex 11
 
-### group metrics
-
-
-### individual metrics
-
+* 60 new values inserted in the database
